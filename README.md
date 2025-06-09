@@ -19,4 +19,10 @@ A simple and clean front-end web app to split expenses among friends or groups. 
 👉 [Click here to view the app](https://emememil.github.io/expense-splitter/)
 
 ## 👤 Author
-[Emil Kalathil](https://www.linkedin.com/in/emil-w)
+
+**Emil Kalathil**  
+📧 emilwilliam66@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/emil-w)  
+💻 [GitHub](https://github.com/Emememil)
+
+---
