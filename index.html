@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Expense Splitter</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Expense Splitter</h1>
+
+    <div class="form">
+      <input type="text" id="personName" placeholder="Person's name" />
+      <input type="number" id="amountSpent" placeholder="Amount spent (₹)" />
+      <div class="buttons">
+        <button id="add-person">Add</button>
+        <button id="calculate">Calculate</button>
+        <button id="reset">Reset</button>
+      </div>
+    </div>
+
+    <div class="output">
+      <h3>People List</h3>
+      <ul id="peopleList"></ul>
+
+      <h3>Summary</h3>
+      <ul id="summaryList"></ul>
+
+      <h3>Settlements</h3>
+      <ul id="settlementsList"></ul>
+
+      <p id="totalDisplay"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
